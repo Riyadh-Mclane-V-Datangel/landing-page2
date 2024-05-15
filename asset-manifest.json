@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/landing-page2/static/css/main.a5d1a941.css",
+    "main.js": "/landing-page2/static/js/main.6e173815.js",
+    "static/js/453.0a42006c.chunk.js": "/landing-page2/static/js/453.0a42006c.chunk.js",
+    "static/media/pic4.png": "/landing-page2/static/media/pic4.a8bde3a3dc2be44fecb9.png",
+    "static/media/piconee.jpg": "/landing-page2/static/media/piconee.03973ffc8a7ba6b5b9b0.jpg",
+    "static/media/pic2.jpg": "/landing-page2/static/media/pic2.75ab91d532469c08db7c.jpg",
+    "static/media/pic6.png": "/landing-page2/static/media/pic6.8890d9cb6c8a8b3239e4.png",
+    "static/media/pic8.png": "/landing-page2/static/media/pic8.db55d6fda9d180bad6d4.png",
+    "static/media/pic5.png": "/landing-page2/static/media/pic5.a1aff364b99895433c54.png",
+    "static/media/pic1.png": "/landing-page2/static/media/pic1.8551692bebc99b75fc2b.png",
+    "static/media/pictwoo.jpg": "/landing-page2/static/media/pictwoo.ca2c87929442dd282c2f.jpg",
+    "static/media/pic3.png": "/landing-page2/static/media/pic3.2f32250ef6225db20b31.png",
+    "static/media/InterTight-Medium.ttf": "/landing-page2/static/media/InterTight-Medium.a046b2b6656b8304f5df.ttf",
+    "static/media/Montserrat-Medium.ttf": "/landing-page2/static/media/Montserrat-Medium.b8c6753baa964ccac1ba.ttf",
+    "static/media/pic7.png": "/landing-page2/static/media/pic7.37f6a60059b2edc973ec.png",
+    "static/media/twitter.png": "/landing-page2/static/media/twitter.5da3240f57fbee851c76.png",
+    "static/media/irislogo.png": "/landing-page2/static/media/irislogo.e6af5fe050b5ffd5b4ee.png",
+    "static/media/heart.png": "/landing-page2/static/media/heart.e6e6843e0db3346180d6.png",
+    "static/media/IbarraRealNova-Medium.ttf": "/landing-page2/static/media/IbarraRealNova-Medium.06570c893dda71d137e8.ttf",
+    "static/media/profile.png": "/landing-page2/static/media/profile.19b60b646172bb0cfcb9.png",
+    "static/media/bell.png": "/landing-page2/static/media/bell.3b21fa88702ee277c748.png",
+    "static/media/email.png": "/landing-page2/static/media/email.a4644ac972bbd75551bc.png",
+    "static/media/fb.png": "/landing-page2/static/media/fb.4620d265df21c5c1ab3f.png",
+    "static/media/logoo.png": "/landing-page2/static/media/logoo.8e1fbc161312b9ec2f1b.png",
+    "static/media/logo.png": "/landing-page2/static/media/logo.7c599aedb6cf62b2d06d.png",
+    "static/media/insta.png": "/landing-page2/static/media/insta.10e464230732d46c62b0.png",
+    "index.html": "/landing-page2/index.html",
+    "main.a5d1a941.css.map": "/landing-page2/static/css/main.a5d1a941.css.map",
+    "main.6e173815.js.map": "/landing-page2/static/js/main.6e173815.js.map",
+    "453.0a42006c.chunk.js.map": "/landing-page2/static/js/453.0a42006c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5d1a941.css",
+    "static/js/main.6e173815.js"
+  ]
+}
